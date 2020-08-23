@@ -87,14 +87,25 @@ color: #E0B612;
     background: #495BC3;
     color: #fff;
 }
-.notify {
+.notify1 {
     color: #fff;
     text-align: center;
     margin: 0 auto;
-    background: #222436;
+    background: #f50f0f;
     margin-top: 20px;
     border-radius: 15px;
     padding: 5px 20px;
+    display: none;
+}
+.notify2{
+    color: #fff;
+    text-align: center;
+    margin: 0 auto;
+    background: #6e1aca;
+    margin-top: 20px;
+    border-radius: 15px;
+    padding: 5px 20px;
+    display: none;
 }
 .notify-section{
     width: 35%;
